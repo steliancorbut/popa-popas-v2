@@ -1,1 +1,9 @@
 /* Add here all your css styles (customizations) */
+
+.navbar-brand h2 {
+    font-family: 'Finger Paint', sans-serif;
+}
+
+.navbar-brand h2 span {
+    font-weight: bold;
+}
